@@ -1,0 +1,17 @@
+{
+  "name": "status-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-material": "^1.1.0-rc.5",
+    "angular-md5": "^0.1.10",
+    "angular-ui-router": "^0.3.1",
+    "angularfire": "^2.0.1"
+  }
+}
