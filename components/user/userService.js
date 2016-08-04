@@ -18,7 +18,7 @@
 		}
 
 		function getLoggedInUser(){
-			var user = localStorage.getItem('firebase:session::statusapp');
+			var user = localStorage.getItem('firebase:session::realtimestatusupdate');
 			if(user){
 				return JSON.parse(user);
 			}
